@@ -1,4 +1,4 @@
-# ☁ Benefícios da Nuvem - Microsoft Azure
+# Benefícios da Nuvem - Microsoft Azure
 
 Este repositório foi criado como parte do desafio prático da DIO no módulo **"Benefícios da Nuvem"**, com foco na criação e configuração de máquinas virtuais na plataforma **Microsoft Azure**. Aqui você encontrará resumos, anotações e dicas valiosas sobre computação em nuvem, voltados especialmente para iniciantes e profissionais em fase de preparação para a certificação AZ-900.
 
